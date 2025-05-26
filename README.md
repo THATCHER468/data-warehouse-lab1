@@ -58,7 +58,7 @@ This data warehouse can support a variety of strategic and operational decisions
 ## Collaborators
 1. Kevin Korir - 670656
 2. Margaret Amondi - 670497
-4. BriCole Asiachi - 670834 
+4. Bricole Asiachi - 670834 
 5. Alfred Gakinya - 671579
 
 
